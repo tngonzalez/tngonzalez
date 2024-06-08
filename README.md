@@ -1,11 +1,6 @@
 # Welcome 👋
 
-Let´s connect! 
-<a href="[https://pagedart.com](https://www.linkedin.com/in/tylinngonzalez/)">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="25"/>
-</a>
-
-I´m Tylinn,a Software Engineering student from Costa Rica. Currently pursing my Bachelor´s Degree.
+I'm Tylinn, a Software Engineering student from Costa Rica. Currently pursing my Bachelor's Degree.
 
 I'm primarily interested in **back-end development**. 
 
@@ -31,6 +26,10 @@ I'm primarily interested in **back-end development**.
 <img width="25" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
   
  <img  width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/>
-
- 
 </p>
+
+
+### Let's connect
+<a href="[https://pagedart.com](https://www.linkedin.com/in/tylinngonzalez/)">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="30"/>
+</a>
