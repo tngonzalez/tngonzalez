@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm Tylinn, a Software Engineering student from Costa Rica. Currently pursing my Bachelor's Degree.
+I'm Tylinn González, a Software Engineering student from Costa Rica. Currently pursing my Bachelor's Degree.
 
 I'm primarily interested in **back-end development**. 
 
