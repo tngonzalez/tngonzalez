@@ -4,7 +4,7 @@ I'm Tylinn, a Software Engineering student from Costa Rica. Currently pursing my
 
 I'm primarily interested in **back-end development**. 
 
-👨‍💻 Throughout my academic journey, I have gained valuable experience through various software projects, both individually and collaboratively. 
+Throughout my academic journey, I have gained valuable experience through various software projects, both individually and collaboratively. 
 
 #### Languages and Tools:
 
