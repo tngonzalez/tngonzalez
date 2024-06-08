@@ -1,12 +1,13 @@
 # Welcome 👋
 
+Let´s connect! 
 <a href="[https://pagedart.com](https://www.linkedin.com/in/tylinngonzalez/)">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="25"/>
 </a>
 
 I´m Tylinn,a Software Engineering student from Costa Rica. Currently pursing my Bachelor´s Degree.
 
-⚡ I'm primarily interested in **back-end development**. 
+I'm primarily interested in **back-end development**. 
 
 👨‍💻 Throughout my academic journey, I have gained valuable experience through various software projects, both individually and collaboratively. 
 
