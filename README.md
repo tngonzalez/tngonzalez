@@ -30,6 +30,6 @@ Throughout my academic journey, I have gained valuable experience through variou
 
 
 ### Let's connect!
-<a href="[https://pagedart.com](https://www.linkedin.com/in/tylinngonzalez/)">
+<a href="https://www.linkedin.com/in/tylinngonzalez/">
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" width="30"/>
 </a>
